@@ -1,9 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Marina
 ## 💾 I'm Qa Engineer
 
-### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
 ## Tech Stack
  <p align="center">
 <img width="7%" title="IntelliJ IDEA" src="assets/Idea.svg">
