@@ -24,7 +24,7 @@
 
 ### 📁 API automation tests for [Reqres](https://reqres.in/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaHoruzhaya&repo=Api_Diplom)](https://github.com/MarinaHoruzhaya/senama-soft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaHoruzhaya&repo=Api_Diplom)](https://github.com/MarinaHoruzhaya/Api_Diplom)
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaHoruzhaya&theme=algolia)
