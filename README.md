@@ -20,11 +20,11 @@
 
 ### 📁 UI automation tests for [Senama-soft](https://www.senamasoft.com/)
 
-[![Readme Card](https://github.com/MarinaHoruzhaya/Api_Diplom/blob/master/README.md)](https://github.com/MarinaHoruzhaya/senama-soft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaHoruzhaya&repo=senama-soft)](https://github.com/MarinaHoruzhaya/senama-soft)
 
 ### 📁 API automation tests for [Reqres](https://reqres.in/)
 
-[![Readme Card](https://github.com/MarinaHoruzhaya/senama-soft/blob/master/README.md)](https://github.com/MarinaHoruzhaya/senama-soft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaHoruzhaya&repo=Api_Diplom)](https://github.com/MarinaHoruzhaya/senama-soft)
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaHoruzhaya&theme=algolia)
