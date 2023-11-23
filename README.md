@@ -18,7 +18,13 @@
 
 ## Projects:
 
-## <a target="_blank" href="https://github.com/MarinaHoruzhaya/senama-soft"> UI testing automation project for website [SenamaSoft](https://www.senamasoft.com/) 
+### 📁 UI automation tests for [Senama-soft](https://www.senamasoft.com/)
+
+[![Readme Card](https://github.com/MarinaHoruzhaya/Api_Diplom/blob/master/README.md)](https://github.com/MarinaHoruzhaya/senama-soft)
+
+### 📁 API automation tests for [Reqres](https://reqres.in/)
+
+[![Readme Card](https://github.com/MarinaHoruzhaya/senama-soft/blob/master/README.md)](https://github.com/MarinaHoruzhaya/senama-soft)
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaHoruzhaya&theme=algolia)
